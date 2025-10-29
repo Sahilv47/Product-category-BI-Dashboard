@@ -21,8 +21,8 @@
 ## 🏷️ Revenue by Product Category
 
 - 🥇 **Electronics** is leading by **39.27%**!  
-- 🥈 **Clothing** **32.72%**
-- 🥉 **Home Goods** **28.01%**
+- 🥈 **Clothing**: **32.72%**
+- 🥉 **Home Goods**: **28.01%**
 
 ---
 
