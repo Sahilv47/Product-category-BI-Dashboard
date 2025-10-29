@@ -1,22 +1,45 @@
-# Product-category-BI-Dashboard
+# 🚀 Product-category-BI-Dashboard
 
-key Highlights
-total revenue is 153k
-total unit sold 2135
+---
 
-Revenue by month
-march and may month have similar revenue 35900 and 35800
-least revenue in april month 19900
+## ✨ Key Highlights
 
-Revenue by product category
-electronics is leading in all product category by 39.27%
+- **💰 Total Revenue:** `153k`
+- **📦 Total Units Sold:** `2,135`
 
-Revenue by product category and region
-electronics have highest revenue including all regions
-clothing in 2nd place has highest revenue in south region
-and, home goods has high revenue in east region
+---
 
-Total unit sold by Product category
-clothing category sold maximum units 1000
-electronics sold 600 units
-and, home goods sold 535 units
+## 📅 Revenue by Month
+
+- 🟢 **March:** `35,900`  
+- 🟢 **May:** `35,800`  
+  _(March & May have similar revenue!)_
+- 🔴 **April:** `19,900` _(Least revenue!)_
+
+---
+
+## 🏷️ Revenue by Product Category
+
+- 🥇 **Electronics** is leading by **39.27%**!  
+- 🥈 **Clothing** **32.72%**
+- 🥉 **Home Goods** **28.01%**
+
+---
+
+## 🌍 Revenue by Category & Region
+
+- 🏆 **Electronics:** Highest revenue across all regions!
+- 👕 **Clothing:** Highest revenue in the **South** region
+- 🏠 **Home Goods:** Highest revenue in the **East** region
+
+---
+
+## 📊 Total Units Sold by Category
+
+- 👕 **Clothing:** `1,000` units _(Maximum sold!)_
+- 📱 **Electronics:** `600` units
+- 🏠 **Home Goods:** `535` units
+
+---
+
+> 🎉 **Insightful data for smarter business decisions!**
